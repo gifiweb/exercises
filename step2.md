@@ -39,6 +39,6 @@ In this test you going to build first prototype of social media web application 
  - Show your knowledge of git, do at least 3 commits (or more) in your work.
  - Add readme file with short story about how you managed.
   
-
+**Note:** you can find more about Git on [Atlassian](https://www.atlassian.com/git/tutorials/syncing)  or [Github](https://desktop.github.com/). 
 > Good luck!
 
