@@ -9,8 +9,8 @@
 
 In this test you going to build first prototype of social media web application called FavorTube. This application shares favourite videos between users. In this step you'll build only the home page.
 
-Required skill are: `HTML`, `CSS`, `JS`, `Git`.
-Level: Basic.
+**Required skill are: `HTML`, `CSS`, `JS`, `Git`.**
+**Level: Basic.**
 
 > Please follow the rules in the description and requirements.
 
@@ -27,7 +27,7 @@ Level: Basic.
  - Main elements on page should be: `header`, `YouTube video player`, `select element of users` and `custom play/pause buttons`.
  - Users list is accessable via `API` in `json` format.
 
-        `GET http://learn.gifi.co.il/api/users/`
+        GET http://learn.gifi.co.il/api/users/
 
  - When you choose someone from select, video player should show her/his
    favourit video.
